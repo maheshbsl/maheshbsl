@@ -12,9 +12,6 @@ Reach me: [Twitter/X @maheshbslx](https://x.com/maheshbslx)
 | [PasswordStore](https://github.com/Cyfrin/3-passwordstore-audit) | Security Storage | 2 High | [View Report](https://github.com/maheshbsl/audits/blob/main/passwordstore/README.md) |
 
 ## Technical Focus
-- Access control vulnerabilities
-- Storage layout security
-- Smart contract architecture review
 - DeFi protocol security
 
 ## Learning Journey
@@ -23,5 +20,3 @@ Currently documenting my security learning process through the 100 Days of DeFi 
 ## Technical Skills
 - Solidity development and auditing
 - Foundry testing framework
-- Storage layout analysis
-- Blockchain security fundamentals 
