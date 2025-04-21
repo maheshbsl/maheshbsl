@@ -3,7 +3,7 @@
 ## About
 Aspiring security researcher focused on smart contract auditing and vulnerability detection. Currently on a 100-day challenge dedicated to mastering DeFi security concepts and practices.
 
-Reach me: [Twitter/X @maheshbslx](https://x.com/maheshbslx)
+Reach me: (https://x.com/maheshbslx)
 
 ## Security Audit Reports
 
