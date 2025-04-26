@@ -12,6 +12,7 @@ Reach me: (https://x.com/maheshbslx)
 | ------- | -------- | -------- | -------- | ------ |
 | [PasswordStore](https://github.com/Cyfrin/3-passwordstore-audit) | Security Storage | Cyfrin | 2 High | [View Report](https://github.com/maheshbsl/audits/blob/main/passwordstore/README.md) |
 | [PuppyRaffle](https://github.com/Cyfrin/4-puppy-raffle-audit) | NFT Raffle | CodeHawks | 1 Critical, 1 High, 3 Medium | [View Report](https://github.com/maheshbsl/audits/blob/main/puppyraffle/README.md) |
+| [T-Swap](https://github.com/Cyfrin/5-t-swap-audit) | DEX/AMM | Cyfrin | 5 High, 2 Medium | [View Report](https://github.com/maheshbsl/audits/blob/main/tswap/README.md) |
 
 ## Focusing on
 
